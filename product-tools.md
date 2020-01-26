@@ -7,7 +7,7 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Flaticon - Free Icons](https://www.flaticon.com/)
 * [Unsplash - Free Stock Images](https://unsplash.com/)
 * [Mockuper - Placed Mockups](https://mockuper.net/)
-* [Pixelmator - Image Editor](https://mockuper.net/)
+* [Pixelmator - Image Editor](https://www.pixelmator.com/)
 * [Pixlr - Photo Editor](https://pixlr.com/x/)
 
 ## Code
@@ -24,15 +24,19 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Loom - Screen Recording](https://www.loom.com/)
 * [Jira - Project Management](https://www.atlassian.com/software/jira)
 * [PlanitPoker - Estimates](https://www.planitpoker.com/)
+* [Team O'clock - Agile in Slack](https://www.teamoclock.com/)
 * [Trello - Kanban](https://trello.com/)
 * [G Suite - All the things](https://gsuite.google.com/)
+* [Grammarly - Writing](https://app.grammarly.com/)
 
 ## Analytics & Research
 * [Google Analytics - Analytics](https://analytics.google.com/)
 * [SurveyMonkey - Surveys](https://www.surveymonkey.com/)
-* [Owler - Competitive Monitoring](https://corp.owler.com/)
 * [Salesforce - Customer Info](https://www.salesforce.com/)
 * [Zendesk - Customer Info](https://www.zendesk.com/)
+* [Google Surveys - Consumer surveys](https://surveys.withgoogle.com/)
+* [SEMrush - Competitive SEO](https://www.semrush.com/)
+* [Owler - Competitive Monitoring](https://corp.owler.com/)
 
 ## Learning & Community Content
 * [Product Hunt - Inspiration](https://www.producthunt.com/)
@@ -40,6 +44,10 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Stratechery - Tech Industry Analysis](https://stratechery.com/)
 * [Masters of Scale - Tech Podcast](https://mastersofscale.com/)
 * [This is Product Management - Tech Podcast](https://www.thisisproductmanagement.com/)
+* [Silicon Valley Product Group - PM Blog](https://svpg.com/articles/)
 * [Black Box of Product Management - PM Blog](https://blackboxofpm.com/)
 * [Mind the Product - Community](https://www.mindtheproduct.com/)
 * [Pragmatic Institute - Community](https://pragmaticinstitute.com/)
+* [Norman Nielsen Group - Design Community](https://www.nngroup.com/articles/)
+* [Smashing Magazine - Design Community](https://www.smashingmagazine.com/category/ux-design/)
+* [Roman Pichley - Agile blog](https://www.romanpichler.com/blog/)
