@@ -10,6 +10,7 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Pixelmator - Image Editor](https://www.pixelmator.com/)
 * [Pixlr - Photo Editor](https://pixlr.com/x/)
 * [Giphy Capture - Screen Gif Generation](https://giphy.com/apps/giphycapture)
+* [Canva - Marketing Asset Templates](https://www.canva.com/)
 
 ## Code
 * [Atom - Text Editor](https://atom.io/)
@@ -27,6 +28,7 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [PlanitPoker - Estimates](https://www.planitpoker.com/)
 * [Team O'clock - Agile in Slack](https://www.teamoclock.com/)
 * [Trello - Kanban](https://trello.com/)
+* [Miro - Collaborative Templates](https://miro.com/)
 * [G Suite - All the things](https://gsuite.google.com/)
 * [Grammarly - Writing](https://app.grammarly.com/)
 
