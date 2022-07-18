@@ -2,8 +2,7 @@
 Like every craft, Product Managers can be picky about which tools they're using. Great tools help you get your job done better, faster, and/or with higher quality. So yeah - it's a bit of arms race. Here's what I'm currently using:
 
 ## Design
-* [InVision - Design Collaboration](https://www.invisionapp.com/)
-* [Sketch - Mockups](https://www.sketch.com/)
+* [Figma - Design and collaboration](https://www.figma.com/)
 * [Flaticon - Free Icons](https://www.flaticon.com/)
 * [Unsplash - Free Stock Images](https://unsplash.com/)
 * [Mockuper - Placed Mockups](https://mockuper.net/)
