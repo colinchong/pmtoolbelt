@@ -9,7 +9,7 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Mockuper - Placed Mockups](https://mockuper.net/)
 * [Pixelmator - Image Editor](https://www.pixelmator.com/)
 * [Pixlr - Photo Editor](https://pixlr.com/x/)
-* [Giphy Capture - Screen Gif Generation](https://giphy.com/apps/giphycapture)
+* [Kap](https://getkap.co/)
 * [Canva - Marketing Asset Templates](https://www.canva.com/)
 
 ## Code
