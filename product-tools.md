@@ -12,12 +12,11 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Canva - Marketing Asset Templates](https://www.canva.com/)
 
 ## Code
-* [Atom - Text Editor](https://atom.io/)
+* [Visual Studio Code - Text Editor](https://code.visualstudio.com)
 * [GitHub - Version Control](https://github.com/)
 * [Postman - API Client](https://www.getpostman.com/)
 
 ## Productivity
-* [productboard - Roadmapping](https://www.productboard.com/)
 * [Lucidchart - Flow Charts & Diagrams](https://www.lucidchart.com/)
 * [Slack - Team Collaboration](https://www.slack.com/)
 * [Zoom - Video Conferencing](https://www.zoom.us/)
@@ -33,6 +32,7 @@ Like every craft, Product Managers can be picky about which tools they're using.
 
 ## Analytics & Research
 * [Google Analytics - Analytics](https://analytics.google.com/)
+* [Pendo - Analytics & In-app Guidance](https://pendo.com/)
 * [SurveyMonkey - Surveys](https://www.surveymonkey.com/)
 * [Salesforce - Customer Info](https://www.salesforce.com/)
 * [Zendesk - Customer Info](https://www.zendesk.com/)
