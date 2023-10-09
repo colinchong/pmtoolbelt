@@ -22,6 +22,7 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Zoom - Video Conferencing](https://www.zoom.us/)
 * [Keybase - Secure Communications](https://www.keybase.io/)
 * [Loom - Screen Recording](https://www.loom.com/)
+* [Screen Studio - Screen Recording](https://www.screen.studio/)
 * [Jira - Project Management](https://www.atlassian.com/software/jira)
 * [PlanitPoker - Estimates](https://www.planitpoker.com/)
 * [Team O'clock - Agile in Slack](https://www.teamoclock.com/)
@@ -29,6 +30,8 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Miro - Collaborative Templates](https://miro.com/)
 * [G Suite - All the things](https://gsuite.google.com/)
 * [Grammarly - Writing](https://app.grammarly.com/)
+* [Zapier - Integrations and Workflows](https://zapier.com/)
+* [ChapGPT - Writing](https://chat.openai.com/)
 
 ## Analytics & Research
 * [Google Analytics - Analytics](https://analytics.google.com/)
