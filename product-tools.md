@@ -8,8 +8,10 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Mockuper - Placed Mockups](https://mockuper.net/)
 * [Pixelmator - Image Editor](https://www.pixelmator.com/)
 * [Pixlr - Photo Editor](https://pixlr.com/x/)
-* [Kap - Desktop GIF/Video Captures](https://getkap.co/)
-* [Canva - Marketing Asset Templates](https://www.canva.com/)
+* [Canva - Marketing Asset Templates](https://www.canva.com)
+* [Uizard - Generative AI Mocks](https://uizard.io)
+* [ElevenLabs - Generative AI Speech](https://elevenlabs.io)
+* [Synthesia - Generative AI Video](https://www.synthesia.io)
 
 ## Code
 * [Visual Studio Code - Text Editor](https://code.visualstudio.com)
@@ -28,10 +30,10 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Team O'clock - Agile in Slack](https://www.teamoclock.com/)
 * [Trello - Kanban](https://trello.com/)
 * [Miro - Collaborative Templates](https://miro.com/)
-* [G Suite - All the things](https://gsuite.google.com/)
+* [Google Workspace - All the things](https://gsuite.google.com/)
 * [Grammarly - Writing](https://app.grammarly.com/)
 * [Zapier - Integrations and Workflows](https://zapier.com/)
-* [ChapGPT - Writing](https://chat.openai.com/)
+* [ChatGPT - Generative AI Automation](https://chat.openai.com/)
 
 ## Analytics & Research
 * [Google Analytics - Analytics](https://analytics.google.com/)
@@ -42,6 +44,8 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Google Surveys - Consumer surveys](https://surveys.withgoogle.com/)
 * [SEMrush - Competitive SEO](https://www.semrush.com/)
 * [Owler - Competitive Monitoring](https://corp.owler.com/)
+* [Perplexity - Generative AI Research](https://www.perplexity.ai/)
+* [Answer The Public - SEO Research](https://answerthepublic.com/)
 
 ## Learning & Community Content
 * [Product Hunt - Inspiration](https://www.producthunt.com/)
