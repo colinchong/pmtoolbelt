@@ -60,3 +60,4 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Norman Nielsen Group - Design Community](https://www.nngroup.com/articles/)
 * [Smashing Magazine - Design Community](https://www.smashingmagazine.com/category/ux-design/)
 * [Roman Pichley - Agile blog](https://www.romanpichler.com/blog/)
+* [Lenny's Podcast - Product Podcast](https://www.lennyspodcast.com/)
