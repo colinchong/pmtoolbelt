@@ -1,5 +1,5 @@
 # Intro
-Like every craft, Product Managers can be picky about which tools they're using. Great tools help you get your job done better, faster, and/or with higher quality. So yeah - it's a bit of arms race. Here's what I'm currently using:
+Like every craft, Product Managers are constantly evolving the tools they're using. Great tools help you get your job done better, faster, and/or with higher quality. So yeah, a bit of arms race. Here's what I'm currently using (exluding many I'm experimenting with):
 
 ## Design
 * [Figma - Design and collaboration](https://www.figma.com/)
