@@ -21,13 +21,13 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Cursor - AI IDE](https://www.cursor.com)
 
 ## Productivity
+* [Jira - Project Management](https://www.atlassian.com/software/jira)
 * [Lucidchart - Flow Charts & Diagrams](https://www.lucidchart.com/)
 * [Slack - Team Collaboration](https://www.slack.com/)
 * [Zoom - Video Conferencing](https://www.zoom.us/)
 * [Keybase - Secure Communications](https://www.keybase.io/)
 * [Loom - Screen Recording](https://www.loom.com/)
 * [Screen Studio - Screen Recording](https://www.screen.studio/)
-* [Jira - Project Management](https://www.atlassian.com/software/jira)
 * [PlanitPoker - Estimates](https://www.planitpoker.com/)
 * [Team O'clock - Agile in Slack](https://www.teamoclock.com/)
 * [Trello - Kanban](https://trello.com/)
@@ -49,6 +49,13 @@ Like every craft, Product Managers can be picky about which tools they're using.
 * [Owler - Competitive Monitoring](https://corp.owler.com/)
 * [Perplexity - Generative AI Research](https://www.perplexity.ai/)
 * [Answer The Public - SEO Research](https://answerthepublic.com/)
+
+## GTM
+* [Apollo - Prospect Database](https://www.apollo.io/)
+* [Hubspot - Clearbit/CRM](https://www.hubspot.com)
+* [Warmly - Traffic Identification](https://www.warmly.ai)
+* [Typeform - Forms](https://www.typeform.com)
+* [Intercom - AI Support and KB](https://www.intercom.com)
 
 ## Learning & Community Content
 * [Product Hunt - Inspiration](https://www.producthunt.com/)
