@@ -19,6 +19,8 @@ Like every craft, Product Managers are constantly evolving the tools they're usi
 * [GitHub - Version Control](https://github.com/)
 * [Postman - API Client](https://www.getpostman.com/)
 * [Cursor - AI IDE](https://www.cursor.com)
+* [Replit - AI Builder](https://www.replit.com)
+* [Claude Code - Local development](https://www.anthropic.com/claude-code/)
 
 ## Productivity
 * [Jira - Project Management](https://www.atlassian.com/software/jira)
@@ -36,19 +38,20 @@ Like every craft, Product Managers are constantly evolving the tools they're usi
 * [Grammarly - Writing](https://app.grammarly.com/)
 * [Zapier - Integrations and Workflows](https://zapier.com/)
 * [ChatGPT - Generative AI Automation](https://chat.openai.com/)
+* [n8n - Agentic Automation](https://n8n.io/)
 
 ## Analytics & Research
-* [Google Analytics - Analytics](https://analytics.google.com/)
-* [Google Analytics - Posthog](https://posthog.com/)
-* [Pendo - Analytics & In-app Guidance](https://pendo.com/)
+* [Google Analytics - Web Analytics](https://analytics.google.com/)
+* [Posthog - Product Analytics](https://posthog.com/)
 * [SurveyMonkey - Surveys](https://www.surveymonkey.com/)
-* [Salesforce - Customer Info](https://www.salesforce.com/)
+* [Hubspot - CRM](https://www.salesforce.com/)
 * [Zendesk - Customer Info](https://www.zendesk.com/)
 * [Google Surveys - Consumer surveys](https://surveys.withgoogle.com/)
 * [SEMrush - Competitive SEO](https://www.semrush.com/)
 * [Owler - Competitive Monitoring](https://corp.owler.com/)
 * [Perplexity - Generative AI Research](https://www.perplexity.ai/)
 * [Answer The Public - SEO Research](https://answerthepublic.com/)
+
 
 ## GTM
 * [Apollo - Prospect Database](https://www.apollo.io/)
