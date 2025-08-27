@@ -24,6 +24,8 @@ Like every craft, Product Managers are constantly evolving the tools they're usi
 
 ## Productivity
 * [Jira - Project Management](https://www.atlassian.com/software/jira)
+* [VWO - A/B Testing](https://vwo.com)
+* [Notion - Wiki](https://www.notion.so)
 * [Lucidchart - Flow Charts & Diagrams](https://www.lucidchart.com/)
 * [Slack - Team Collaboration](https://www.slack.com/)
 * [Zoom - Video Conferencing](https://www.zoom.us/)
@@ -37,7 +39,7 @@ Like every craft, Product Managers are constantly evolving the tools they're usi
 * [Google Workspace - All the things](https://gsuite.google.com/)
 * [Grammarly - Writing](https://app.grammarly.com/)
 * [Zapier - Integrations and Workflows](https://zapier.com/)
-* [ChatGPT - Generative AI Automation](https://chat.openai.com/)
+* [ChatGPT - Generative AI Work](https://chat.openai.com/)
 * [n8n - Agentic Automation](https://n8n.io/)
 
 ## Analytics & Research
@@ -57,8 +59,11 @@ Like every craft, Product Managers are constantly evolving the tools they're usi
 * [Apollo - Prospect Database](https://www.apollo.io/)
 * [Hubspot - Clearbit/CRM](https://www.hubspot.com)
 * [Warmly - Traffic Identification](https://www.warmly.ai)
+* [Vector - Company Identification](https://www.vector.co/)
+* [Landbase - Contact Research and Campaigns](https://www.landbase.com/)
 * [Typeform - Forms](https://www.typeform.com)
 * [Intercom - AI Support and KB](https://www.intercom.com)
+* [MailerLite - Email marketing](https://www.mailerlite.com)
 
 ## Learning & Community Content
 * [Product Hunt - Inspiration](https://www.producthunt.com/)
